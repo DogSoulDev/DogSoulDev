@@ -1,7 +1,7 @@
 
- <a href="https://github.com/"> <img align="left" src="https://media0.giphy.com/media/vMEjhlxsBR7Fe/giphy.gif?cid=ecf05e4781lj56773lpdiij1dnnuq0vqknb8owguaib598we&rid=giphy.gif&ct=g" height="60" width="50" alt="" /></a></p><br>
+ <a href="https://github.com/"> <img align="left" src="https://media0.giphy.com/media/vMEjhlxsBR7Fe/giphy.gif?cid=ecf05e4781lj56773lpdiij1dnnuq0vqknb8owguaib598we&rid=giphy.gif&ct=g" height="80" width="60" alt="" /></a></p><br>
  
-   <a href="https://github.com/DogSoulDev?tab=stars"> <img align="right" src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76115785c8c08f88a4b222dfb8aa3435eed553a2598e&rid=giphy.gif&ct=g" height="60" width="50" alt="" /></a></p><br>
+   <a href="https://github.com/DogSoulDev?tab=stars"> <img align="right" src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76115785c8c08f88a4b222dfb8aa3435eed553a2598e&rid=giphy.gif&ct=g" height="70" width="60" alt="" /></a></p><br>
 
 
 <h1 align="center">Hi 👋, I'm Javier Fernández</h1>
