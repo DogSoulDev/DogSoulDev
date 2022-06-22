@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/javier-fern%C3%A1ndez-029246233/" target="blank"><img align="center" src="https://brandlogos.net/linkedin-icon-vector-download-89492.html" alt="" height="30" width="40" /></a>
   
-<a href="https://stackoverflow.com/users/18988723/dogsouldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18988723/dogsouldev" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18988723/dogsouldev" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
