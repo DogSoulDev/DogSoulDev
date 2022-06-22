@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/javier-fern%c3%a1ndez-029246233/" target="blank"><img align="center" alt="https://www.linkedin.com/in/javier-fern%C3%A1ndez-029246233/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/javier-fern%c3%a1ndez-029246233/](https://www.linkedin.com/in/javier-fern%C3%A1ndez-029246233/)" target="blank"><img align="center"
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
