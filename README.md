@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Javier Fernández</h1>
 <h3 align="center">👀 I Love Dogs, Robots and Tech. 🌱Right now I'm doing a master's degree in software development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dogsouldev&label=Profile%20views&color=0e75b6&style=flat" alt="dogsouldev" /> </p>
-
-<p align="left"> <a href="dogsouldev@gmail.com"><img src="" alt="" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/DogSoulDev](https://github.com/DogSoulDev)
 
 - 📫 How to reach me **dogsouldev@gmail.com**
