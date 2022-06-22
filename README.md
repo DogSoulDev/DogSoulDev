@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier Fernández</h1>
 <h3 align="center">👀 I Love Dogs, Robots and Tech. 🌱Right now I'm doing a master's degree in software development.</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/DogSoulDev](https://github.com/DogSoulDev)
+- 👨‍💻 All of my projects are available at [https://github.com/DogSoulDev?tab=repositories](https://github.com/DogSoulDev?tab=repositories)
 
 - 📫 How to reach me **dogsouldev@gmail.com**
 
