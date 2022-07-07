@@ -1,17 +1,13 @@
+ `<a href="https://github.com/">` `<img align="left" src="https://media0.giphy.com/media/vMEjhlxsBR7Fe/giphy.gif?cid=ecf05e4781lj56773lpdiij1dnnuq0vqknb8owguaib598we&rid=giphy.gif&ct=g" height="100" width="100" alt="" /></a>``</p><br>`
 
- <a href="https://github.com/"> <img align="left" src="https://media0.giphy.com/media/vMEjhlxsBR7Fe/giphy.gif?cid=ecf05e4781lj56773lpdiij1dnnuq0vqknb8owguaib598we&rid=giphy.gif&ct=g" height="100" width="100" alt="" /></a></p><br>
- 
-   <a href="https://github.com/DogSoulDev?tab=stars"> <img align="right" src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76115785c8c08f88a4b222dfb8aa3435eed553a2598e&rid=giphy.gif&ct=g" height="70" width="60" alt="" /></a></p><br>
-
+   `<a href="https://github.com/DogSoulDev?tab=stars">` `<img align="right" src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76115785c8c08f88a4b222dfb8aa3435eed553a2598e&rid=giphy.gif&ct=g" height="70" width="60" alt="" /></a>``</p><br>`
 
 <h1 align="center">👋 Welcome to DogSoulDev profile, let's work!</h1>
 <h3 align="center">👀 I Love Dogs, Robots and Tech. 🌱Right now I'm doing a master's degree in software development.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/DogSoulDev?tab=repositories](https://github.com/DogSoulDev?tab=repositories)
 
-
 <a href="https://www.linkedin.com/in/javier-fern%C3%A1ndez-029246233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandroaperez1994g" height="30" width="40" /></a>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <br>
@@ -20,9 +16,7 @@
 
 ![Javier Fernández GitHub stats](https://github-readme-stats.vercel.app/api?username=DogSoulDev&hide=contribs,prs)
 
-
 <p align="center"><a href="https://app.daily.dev/DogSoulDev"><img src="https://api.daily.dev/devcards/8e397fb1860042388864ad04a09157e5.png?r=ggc" width="300" alt="Javier Fernández's Dev Card"/></a></p>
 
-
-<h3 align="left">Support:</h3>
+<h3 align="left">Support New Dev!</h3>
 <p><a href="https://www.paypal.com/donate/?hosted_button_id=5DKDRZ2NJU8YA"> <img align="left" src="https://panels-images.twitch.tv/panel-651342898-image-1c545d56-41af-4870-a7d9-6bc39303983b" height="50" width="50" alt="https://www.paypal.com/donate/?hosted_button_id=5DKDRZ2NJU8YA" /></a></p><br><br>
