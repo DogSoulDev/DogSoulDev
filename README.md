@@ -27,6 +27,7 @@
 
 <a href="https://app.daily.dev/DogSoulDev"><img src="https://api.daily.dev/devcards/8e397fb1860042388864ad04a09157e5.png?r=ggc" width="400" alt="Javier Fernández's Dev Card"/></a>
 
-
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+ 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.paypal.com/donate/?hosted_button_id=5DKDRZ2NJU8YA"> <img align="left" src="https://panels-images.twitch.tv/panel-651342898-image-1c545d56-41af-4870-a7d9-6bc39303983b" height="50" width="50" alt="https://www.paypal.com/donate/?hosted_button_id=5DKDRZ2NJU8YA" /></a></p><br><br>
