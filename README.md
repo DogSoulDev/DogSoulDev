@@ -1,7 +1,6 @@
 <h1 align="center"> 🚀 Welcome to DogSoulDev profile, let's work!</h1>
 <h3 align="center"> 🦴 I Love Dogs, 🤖 Robots and 💻 Tech.  Right now I'm doing a master's degree in software development 👨‍💻.</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/DogSoulDev?tab=repositories](https://github.com/DogSoulDev?tab=repositories)
 
 <h4>You can find my LinkedIn profile here:</h4>
 <a href="https://www.linkedin.com/in/javier-fern%C3%A1ndez-029246233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandroaperez1994g" height="30" width="40" /></a><br>
