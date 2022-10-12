@@ -1,6 +1,6 @@
 <h2 align="center"> 🚀 Welcome to DogSoulDev(Javier Fernández) profile.</h2>
 <h3 align="center"> 🦴 I Love Dogs, 🤖 Robots and 💻 Tech.  Right now I'm doing a master's degree in Software Development 👨‍💻.</h3>
-<h4 align="center"> ✈️ Travel fan!, 🍕 I can live with pizza! 🏈 American football.  If you have any question, just ask me! Let's try our best!💬💻.</h4>
+<h4 align="center"> ✈️ Travel fan!, 🍕 I can live with pizza! 🏈 American football. 💢Manga&Anime  If you have any question, just ask me! Let's try our best!💬💻.</h4>
 <br><br>
 
 <h4>You can find my LinkedIn profile here:</h4>
