@@ -4,8 +4,15 @@
 <h5 align="center"> If you have any question, just ask me! Let's try our best!💬</h5>
 <br><br>
 
+📱 We can speak in:
+-English
+-Spanish
+-Catalan
+-Gallego
+
+
 <h4>You can find my LinkedIn profile here:</h4>
-<a href="https://www.linkedin.com/in/javier-fern%C3%A1ndez-029246233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandroaperez1994g" height="30" width="40" /></a><br>
+<a href="https://www.linkedin.com/in/javier-fern%C3%A1ndez-029246233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javierfernández" height="30" width="40" /></a><br>
 <br>
 
 <h5 align="left">Languages and Tools:</h5>
