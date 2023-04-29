@@ -21,7 +21,7 @@
 <br><br><br>
 
 <a href="https://github.com/DogSoulDev"><img src="https://www.rlogical.com/wp-content/uploads/2020/12/MERN-Stack-considered-the-Best-for-Developing-Web-Apps.png" width="400"/></a>
-<a href="https://github.com/DogSoulDev"><img src="https://i.ytimg.com/vi/qWxubVMX_cg/maxresdefault.jpg" width="400"/></a>
+
 
 
 ![DogSoulDev](https://user-images.githubusercontent.com/104593484/177875094-cad96be8-6109-464b-9c39-b53f3aef2b5b.gif)
